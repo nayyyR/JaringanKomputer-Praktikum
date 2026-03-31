@@ -90,7 +90,7 @@ Pertanyaan dan jawaban:
 
 3. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan tersebut mengandung ”jawaban” atau ”answers”?<br>Pada request, typenya adalah `A`. Sedangkan untuk answers pada request adalah `0` yang berarti tidak ada jawaban.
 
-4. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau “answers” yang terdapat di dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut?<br>Ada 3 answers yang diberikan, yaitu:<br>i. www.mit.edu: type CNAME, class IN, cname www.mit.edu.edgekey.net => Artinya: www.mit.edu adalah alias yang diarahkan ke domain lain.<br>ii. www.mit.edu.edgekey.net: type CNAME, class IN, cname e9566.dscb.akamaiedge.net => Artinya: domain tersebut masih alias lagi ke domain berikutnya.<br>iii.e9566.dscb.akamaiedge.net: type A, class IN, addr 23.217.163.122 => Artinya: domain ini sudah menunjuk ke alamat IP asli (tujuan akhir).
+4. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau “answers” yang terdapat di dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut?<br>Ada 3 answers yang diberikan, yaitu:<br>i. www.mit.edu: type CNAME, class IN, cname www.mit.edu.edgekey.net => Artinya: www.mit.edu adalah alias yang diarahkan ke domain lain.<br>ii. www.mit.edu.edgekey.net: type CNAME, class IN, cname e9566.dscb.akamaiedge.net => Artinya: domain tersebut masih alias lagi ke domain berikutnya.<br>iii. e9566.dscb.akamaiedge.net: type A, class IN, addr 23.217.163.122 => Artinya: domain ini sudah menunjuk ke alamat IP asli (tujuan akhir).
 
 <br>
 
