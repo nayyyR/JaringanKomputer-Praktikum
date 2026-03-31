@@ -9,7 +9,7 @@
 ## List Tugas That I Already Do
 
 | Week | Tanggal Post | Modul | Link Laporan |
-|:------:|:------:|:------:|
+|:------:|:------:|:------:|:------:|
 | 2 | 6 March 2026 | 1 & 2 | [_Click Here_](Week-2/laporan.md) |
 | 3 | 12 March 2026 | 3 | [_Click Here_](Week-3/laporan.md) |
 | 4 | 31 March 2026 | 4 | [_Click Here_](Week-4/Modul-4/laporan.md) |
