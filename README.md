@@ -15,3 +15,4 @@
 | 4 | 31 March 2026 | 4 | [_Click Here_](Week-4/Modul-4/laporan.md) |
 | 4 | 31 March 2026 | 5 | [_Click Here_](Week-4/Modul-5/laporan.md) |
 | 5 | 07 April 2026 | 6 | [_Click Here_](Week-5/laporan.md) |
+| 6 | 14 April 2026 | 7 | [_Click Here_](Week-6/laporan.md) |
