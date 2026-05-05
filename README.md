@@ -17,6 +17,7 @@
 | 5 | 07 April 2026 | 6 | [_Click Here_](Week-5/laporan.md) |
 | 6 | 14 April 2026 | 7 | [_Click Here_](Week-6/laporan.md) |
 | 7 | OnSite | 9 | [_Click Here_](Week-7/) |
+| 8 | 05 Mei 2025 | 10 | [_Click Here_](Week-8/laporan.md) |
 
 ## Special Task
 
