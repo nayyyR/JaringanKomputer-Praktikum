@@ -1,4 +1,4 @@
-# Laporan Praktikum Jaringan Komputer IF - Week 6
+# Laporan Praktikum Jaringan Komputer IF - Week 8
 
 ## Tugas Modul 10
 
